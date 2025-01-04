@@ -298,8 +298,8 @@ cap.release()
 ---
 
 
+![ai-virtual-keyboard](https://github.com/user-attachments/assets/4626f37c-8d29-4be5-bda8-5c60d3a8f2b6)
 
-https://user-images.githubusercontent.com/48349693/134879174-09c3bd06-a413-4b77-a1bb-d02177ea9967.mp4
 
 
 
